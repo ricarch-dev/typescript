@@ -11,5 +11,8 @@
   "description": "",
   "devDependencies": {
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0"
   }
 }
